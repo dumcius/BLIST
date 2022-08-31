@@ -15,7 +15,7 @@ void setup()
 
 void loop()
 {
-  lightDetection(); //if the surrounding light is too low, the led turns on
+  lightDetection(); //if the surrounding light is too low, the led turns on 
 
   PWM(); //fades a PWM LED
 }
