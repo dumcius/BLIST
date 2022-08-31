@@ -20,7 +20,7 @@ void loop()
 
 //when the button is pressed anything happening
 //in void loop is halted and interuptHandler()
-//is executed, in this case a message is printed
+//is executed, in this case a message is printed 
 void interuptHandler()
 {
   Serial.println("Hello from BLIST ONE Pro - you pressed a button");
