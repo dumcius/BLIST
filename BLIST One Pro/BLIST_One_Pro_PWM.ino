@@ -4,7 +4,7 @@
 //function ran once on startup
 void setup()                        
 {
-  //sets up PWM_LED (Pin D10) as an output
+  //sets up PWM_LED (Pin D10) as an output 
   pinMode(PWM_LED, OUTPUT);         
 }
 
