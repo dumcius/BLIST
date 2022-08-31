@@ -24,7 +24,7 @@ void loop()
     digitalWrite(ACT_LED, HIGH);
   }
   
-  // if sampled data is lower than 400, the led will turn on
+  // if sampled data is lower than 400, the led will turn on 
   else
   {
     digitalWrite(ACT_LED, LOW);
