@@ -18,5 +18,5 @@ void loop()
   //turns the led ON                  
   digitalWrite(ACT_LED, LOW);   
   delay(1000);
-  // wait one second                 
+  // wait one second                
 }
